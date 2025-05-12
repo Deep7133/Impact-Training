@@ -1,4 +1,5 @@
 # Impact-Training
-all codes in python
-6 phrases of talentely
-parul university 
+#all codes in python
+#6 phrases
+#talentely
+#parul university 
