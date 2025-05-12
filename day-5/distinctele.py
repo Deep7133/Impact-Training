@@ -8,3 +8,5 @@ for i in range(n):
 print(d)
 print(n)
 # print(type(d))
+# l=sorted(nums)
+# print(l)
